@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Material App',
       home: Center(
-        child: Text("Hola mundo"),
+        child: Text("Hola"),
       )
       
     );
