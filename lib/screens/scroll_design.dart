@@ -15,7 +15,7 @@ class ScrollScreen extends StatelessWidget {
           )
       );
 
-  ScrollScreen({super.key});
+  const ScrollScreen({super.key});
   @override
   Widget build(BuildContext context) {
   

@@ -3,7 +3,6 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter/material.dart';
 
 class Background extends StatelessWidget {
   final boxDecoration = const BoxDecoration(
@@ -33,7 +32,7 @@ class Background extends StatelessWidget {
 }
 
 class _Bluebox extends StatelessWidget {
-  const _Bluebox({super.key});
+  const _Bluebox();
 
   @override
   Widget build(BuildContext context) {

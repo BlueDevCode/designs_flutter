@@ -1,8 +1,9 @@
 
-import 'package:designs_flutter/widgets/page_title.dart';
-import 'package:flutter/material.dart';
 import '../widgets/background.dart';
 import '../widgets/custom_buttom_navigation.dart';
+import 'package:designs_flutter/widgets/card_table.dart';
+import 'package:designs_flutter/widgets/page_title.dart';
+import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
    
@@ -36,6 +37,7 @@ class _Homebody extends StatelessWidget {
       child: Column(
         children: const [
           PageTitle(),
+          CardTable()
 
         ]),
     );

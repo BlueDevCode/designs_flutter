@@ -13,7 +13,7 @@ class BasicDesignScreen extends StatelessWidget {
       body:Column(
         children:  [
            const Image(image: AssetImage("assets/landscape.jpg")),
-           Title(),
+           const Title(),
            const ButtonSection(),
            Container(
              margin: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
