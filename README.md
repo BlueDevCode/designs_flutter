@@ -10,7 +10,7 @@ _
 - SafeArea
 - Custom widgets
 - Blur
-- BottomNavigatorbar
+- BottomNavigationBar
 - Containers
 - TableRow / Table
 - StatusBar
